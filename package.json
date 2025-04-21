@@ -1,0 +1,18 @@
+{
+  "name": "social-media-automation-simulator",
+  "version": "1.0.0",
+ "description": "Educational simulator for studying social media automation tools",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "sqlite3": "^5.1.7",
+    "bull": "^4.16.3",
+    "body-parser": "^1.20.3",
+    "cors": "^2.8.5"
+  },
+  "author": "Educational Demo",
+ "license": "MIT"
+ }
